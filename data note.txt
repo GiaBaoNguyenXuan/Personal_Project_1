@@ -1,0 +1,33 @@
+11/2 
+
+ask chat gpt to randomly put the sold number inside the file for reference only
+
+New Rules for Sold Numbers:
+If a product has 0 reviews, its sold number must be less than 10 (random value from 1 to 9).
+If a product has 1 or more reviews, its sold number will be randomly between 1.5× and 3× the number of reviews.
+Ratings and reviews will remain unchanged.
+
+Lazada files:
+
+sku SKU stands for Stock Keeping Unit. It's a unique identifier used by retailers and sellers to track inventory. Each product variation (like size, color, or model) usually has its own SKU, helping businesses manage stock efficiently.
+
+GMV stands for Gross Merchandise Value. It represents the total value of goods sold on a platform within a specific period, before deducting any fees, discounts, or returns.
+
+Formula:
+𝐺
+𝑀
+𝑉
+=
+Sold Quantity
+×
+Final Price
+GMV=Sold Quantity×Final Price
+For example, if a seller sells 100 units of a product at $20 each, the GMV would be:
+
+100
+×
+20
+=
+2000
+100×20=2000
+It's often used in e-commerce to measure the overall sales performance of a marketplace, like Shopee or Lazada.
