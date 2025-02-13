@@ -31,3 +31,5 @@ For example, if a seller sells 100 units of a product at $20 each, the GMV would
 2000
 100×20=2000
 It's often used in e-commerce to measure the overall sales performance of a marketplace, like Shopee or Lazada.
+
+Both tables do not contain primary key for its lack of precision. 
