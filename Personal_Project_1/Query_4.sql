@@ -29,7 +29,9 @@ FROM lazada_products
 
 GROUP BY platform;
 
-/* With GMV stands for: Gross Merchandise Value. It represents the total value of goods sold on a platform within a specific period, before deducting any fees, discounts, or returns.
+/* 
+
+With GMV stands for: Gross Merchandise Value. It represents the total value of goods sold on a platform within a specific period, before deducting any fees, discounts, or returns.
 
 GMV = Sold quality * Final price
 
