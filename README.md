@@ -126,11 +126,11 @@ And here is my own conclusion from the analysis:
 
 *Table of the purchase power by Price Range*
 
-## 2. Analysing purhcase power by dicount rate
+## 2. Analysing purchase power by dicount rate
 
 After considering the relation between price range and purchase power, I proceed to explore the connection between dicount rate and customer decision by applying the same method as the first query
 
-```
+```sql
 SELECT 
 
 CASE 
@@ -190,7 +190,7 @@ My own thoughts on this connection are:
 
 Same methods, same approaches, but I want to learn the affect of rating from previous customeres on new customers:
 
-```
+```sql
 SELECT 
 
 CASE 
@@ -252,7 +252,7 @@ And my finds are:
 
 With GMV, I use the formula to calculate for Shopee before proceeding to the comparision between the two platforms. As I have mentioned from the beginning, this result is just for refference, but it might depict the current performance for the recent research have demonstrated the dominance of Shopee on the market:
 
-```
+```sql
 SELECT 
     platform,
     ROUND(AVG(gmv),0) AS avg_gmv,
